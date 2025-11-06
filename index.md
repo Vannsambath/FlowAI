@@ -1,6 +1,6 @@
 📜 Privacy Policy for Flow Auto Extension
 (Last Updated: November 2025)
-This Privacy Policy governs the use of the Flow Auto Chrome Extension ("the Extension") provided by [Your Name or Company Name]. We are fully committed to protecting your privacy and ensuring transparency in all our data practices.
+This Privacy Policy governs the use of the Flow Auto Chrome Extension ("the Extension") provided by [VANNSAMBATH]. We are fully committed to protecting your privacy and ensuring transparency in all our data practices.
 1. Single Purpose and Core Functionality
 The Flow Auto Extension is a single-purpose tool dedicated exclusively to automating and streamlining the video generation process on the Google Flow platform (https://labs.google/*). All code, permissions, and features are strictly confined to this core task.
 2. Information We Collect (Data Minimization)
@@ -26,5 +26,5 @@ sidePanel	Required to provide the primary user interface for controlling automat
 We may update this Privacy Policy from time to time. We will update the "Last Updated" date at the top of this policy and include an updated version in all future extension packages submitted to the Chrome Web Store.
 5. Contact Us
 If you have any questions or concerns regarding this Privacy Policy or the data practices of the Flow Auto Extension, please contact us at:
-[Your Support Email Address (e.g., support@flowauto.com)]
+[Your Support Email Address (Vannsambath165@gmail.com)]
 
